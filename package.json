@@ -1,0 +1,21 @@
+{
+  "name": "@shaguftaarif/atm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "bin": {"atm":"index.js"},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^8.2.0",
+    "inquirer": "^9.2.11"
+  },
+  "description": "",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.6"
+  }
+}
